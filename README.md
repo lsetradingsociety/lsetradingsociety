@@ -1,9 +1,5 @@
 ### 📈 Welcome! 
 
-<!--
-**lsetradingsociety/lsetradingsociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 ## About Us
 Established in 2012, the LSESU Trading Society has grown exponentially to emerge as one of the 5 largest societies at the LSE, and we are the only society specialised in trading and financial markets education.
 
